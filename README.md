@@ -8,4 +8,4 @@
 
 ## Please cite as following:
 
-**Zhang, Tony Huiquan**, and Robert Brym. 2019. "Tolerance of Homosexuality in 88 Countries: Education, Political Freedom, and Liberalism." *Sociological Forum*, 34(2):501-521. (https://onlinelibrary.wiley.com/doi/pdf/10.1111/socf.12507)  
+**Zhang, Tony Huiquan**, and Robert Brym. 2019. "Tolerance of Homosexuality in 88 Countries: Education, Political Freedom, and Liberalism." *Sociological Forum*, 34(2): 501-521. (https://onlinelibrary.wiley.com/doi/pdf/10.1111/socf.12507)  
